@@ -1,0 +1,57 @@
+2021-03-17 07:07:46.307 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 89
+2021-03-17 07:07:46.395 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 107
+   at FileScanApp.DataConvert.DataReader(String Inputfile) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 44
+2021-03-17 07:08:16.199 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 89
+2021-03-17 07:08:16.290 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 107
+   at FileScanApp.DataConvert.DataReader(String Inputfile) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 44
+2021-03-17 07:08:42.834 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 89
+2021-03-17 07:09:02.222 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 89
+2021-03-17 07:09:02.311 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 107
+   at FileScanApp.DataConvert.DataReader(String Inputfile) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 44
+2021-03-17 07:14:42.466 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 89
+2021-03-17 07:14:42.532 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 107
+   at FileScanApp.DataConvert.DataReader(String Inputfile) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 44
+2021-03-17 07:15:32.397 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 89
+2021-03-17 07:15:32.486 +02:00 [ERR] System.UnauthorizedAccessException: Access to the path 'C:\BDG_Output.json' is denied.
+   at FileScanApp.DataConvert.CreatejsonFile(String JsonData) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 107
+   at FileScanApp.DataConvert.DataReader(String Inputfile) in C:\Users\AmosMoholola\Downloads\FileScanApp-master\FileScanApp-master\DataConvert.cs:line 44
